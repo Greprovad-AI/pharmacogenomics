@@ -1,0 +1,89 @@
+Cancer VIP Gene Analysis Summary
+==============================
+
+Total sequences analyzed: 1000
+
+Cancer VIP Gene Risk Distribution:
+--------------------------------
+
+DPYD:
+  High Risk Cases:
+    - MSL: 2 sequences (1.0%)
+    - YRI: 3 sequences (1.6%)
+    - LWK: 2 sequences (0.9%)
+    - GWD: 2 sequences (1.0%)
+    - ESN: 2 sequences (1.0%)
+
+  Moderate Risk Cases:
+
+  Clinical Implications:
+    - 5-Fluorouracil
+    - Capecitabine
+
+  Potential Adverse Reactions:
+    - Severe myelosuppression
+    - Gastrointestinal toxicity
+    - Hand-foot syndrome
+    - Potentially fatal toxicity
+
+
+TPMT:
+  High Risk Cases:
+    - GWD: 7 sequences (3.6%)
+    - LWK: 2 sequences (0.9%)
+    - MSL: 12 sequences (5.9%)
+    - ESN: 6 sequences (2.9%)
+    - YRI: 5 sequences (2.7%)
+
+  Moderate Risk Cases:
+    - YRI: 3 sequences (1.6%)
+    - LWK: 4 sequences (1.9%)
+    - ESN: 2 sequences (1.0%)
+    - MSL: 1 sequences (0.5%)
+
+  Clinical Implications:
+    - 6-Mercaptopurine
+    - Azathioprine
+    - Thioguanine
+
+  Potential Adverse Reactions:
+    - Severe myelosuppression
+    - Increased risk of secondary cancers
+    - Hepatotoxicity
+
+
+UGT1A1:
+  High Risk Cases:
+    - YRI: 1 sequences (0.5%)
+    - LWK: 1 sequences (0.5%)
+
+  Moderate Risk Cases:
+
+  Clinical Implications:
+    - Irinotecan
+    - Nilotinib
+    - Pazopanib
+
+  Potential Adverse Reactions:
+    - Severe neutropenia
+    - Severe diarrhea
+    - Increased bilirubin levels
+
+
+Population Statistics:
+--------------------
+
+LWK:
+  Total Sequences: 212
+
+MSL:
+  Total Sequences: 203
+
+YRI:
+  Total Sequences: 188
+
+GWD:
+  Total Sequences: 192
+
+ESN:
+  Total Sequences: 205

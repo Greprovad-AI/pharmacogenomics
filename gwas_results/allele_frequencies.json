@@ -1,0 +1,357 @@
+[
+  {
+    "DPYD": {
+      "rs3918290": {
+        "allele_frequencies": {
+          "G": 0.5192346023520031,
+          "A": 0.4807653976479968
+        },
+        "risk_allele_frequency": 0.4807653976479968,
+        "population": "LWK",
+        "phenotype": "5-FU toxicity"
+      },
+      "rs67376798": {
+        "allele_frequencies": {
+          "T": 0.5564953571756919,
+          "A": 0.4435046428243082
+        },
+        "risk_allele_frequency": 0.4435046428243082,
+        "population": "LWK",
+        "phenotype": "Fluoropyrimidine toxicity"
+      },
+      "rs55886062": {
+        "allele_frequencies": {
+          "A": 0.4435046428243082,
+          "T": 0.5564953571756919
+        },
+        "risk_allele_frequency": 0.5564953571756919,
+        "population": "LWK",
+        "phenotype": "DPD deficiency"
+      }
+    },
+    "TPMT": {
+      "rs1800462": {
+        "allele_frequencies": {
+          "G": 0.5046982466337305,
+          "C": 0.49530175336626947
+        },
+        "risk_allele_frequency": 0.49530175336626947,
+        "population": "LWK",
+        "phenotype": "TPMT deficiency"
+      },
+      "rs1800460": {
+        "allele_frequencies": {
+          "A": 0.4807653976479968,
+          "G": 0.5192346023520031
+        },
+        "risk_allele_frequency": 0.5192346023520031,
+        "population": "LWK",
+        "phenotype": "Thiopurine toxicity"
+      },
+      "rs1142345": {
+        "allele_frequencies": {
+          "T": 0.5420920651979223,
+          "C": 0.45790793480207775
+        },
+        "risk_allele_frequency": 0.45790793480207775,
+        "population": "LWK",
+        "phenotype": "Reduced TPMT activity"
+      }
+    },
+    "UGT1A1": {
+      "rs4148323": {
+        "allele_frequencies": {
+          "G": 0.5192346023520031,
+          "A": 0.4807653976479968
+        },
+        "risk_allele_frequency": 0.4807653976479968,
+        "population": "LWK",
+        "phenotype": "Irinotecan toxicity"
+      }
+    }
+  },
+  {
+    "DPYD": {
+      "rs3918290": {
+        "allele_frequencies": {
+          "G": 0.5196833992918142,
+          "A": 0.48031660070818577
+        },
+        "risk_allele_frequency": 0.48031660070818577,
+        "population": "MSL",
+        "phenotype": "5-FU toxicity"
+      },
+      "rs67376798": {
+        "allele_frequencies": {
+          "T": 0.5569857355554488,
+          "A": 0.44301426444455116
+        },
+        "risk_allele_frequency": 0.44301426444455116,
+        "population": "MSL",
+        "phenotype": "Fluoropyrimidine toxicity"
+      },
+      "rs55886062": {
+        "allele_frequencies": {
+          "A": 0.44301426444455116,
+          "T": 0.5569857355554488
+        },
+        "risk_allele_frequency": 0.5569857355554488,
+        "population": "MSL",
+        "phenotype": "DPD deficiency"
+      }
+    },
+    "TPMT": {
+      "rs1800462": {
+        "allele_frequencies": {
+          "G": 0.5045755599373073,
+          "C": 0.49542444006269276
+        },
+        "risk_allele_frequency": 0.49542444006269276,
+        "population": "MSL",
+        "phenotype": "TPMT deficiency"
+      },
+      "rs1800460": {
+        "allele_frequencies": {
+          "A": 0.48031660070818577,
+          "G": 0.5196833992918142
+        },
+        "risk_allele_frequency": 0.5196833992918142,
+        "population": "MSL",
+        "phenotype": "Thiopurine toxicity"
+      },
+      "rs1142345": {
+        "allele_frequencies": {
+          "T": 0.5420171994765377,
+          "C": 0.45798280052346235
+        },
+        "risk_allele_frequency": 0.45798280052346235,
+        "population": "MSL",
+        "phenotype": "Reduced TPMT activity"
+      }
+    },
+    "UGT1A1": {
+      "rs4148323": {
+        "allele_frequencies": {
+          "G": 0.5196833992918142,
+          "A": 0.48031660070818577
+        },
+        "risk_allele_frequency": 0.48031660070818577,
+        "population": "MSL",
+        "phenotype": "Irinotecan toxicity"
+      }
+    }
+  },
+  {
+    "DPYD": {
+      "rs3918290": {
+        "allele_frequencies": {
+          "G": 0.511712119497567,
+          "A": 0.48828788050243294
+        },
+        "risk_allele_frequency": 0.48828788050243294,
+        "population": "YRI",
+        "phenotype": "5-FU toxicity"
+      },
+      "rs67376798": {
+        "allele_frequencies": {
+          "T": 0.5559785964190163,
+          "A": 0.44402140358098374
+        },
+        "risk_allele_frequency": 0.44402140358098374,
+        "population": "YRI",
+        "phenotype": "Fluoropyrimidine toxicity"
+      },
+      "rs55886062": {
+        "allele_frequencies": {
+          "A": 0.44402140358098374,
+          "T": 0.5559785964190163
+        },
+        "risk_allele_frequency": 0.5559785964190163,
+        "population": "YRI",
+        "phenotype": "DPD deficiency"
+      }
+    },
+    "TPMT": {
+      "rs1800462": {
+        "allele_frequencies": {
+          "G": 0.497907949790795,
+          "C": 0.502092050209205
+        },
+        "risk_allele_frequency": 0.502092050209205,
+        "population": "YRI",
+        "phenotype": "TPMT deficiency"
+      },
+      "rs1800460": {
+        "allele_frequencies": {
+          "A": 0.48828788050243294,
+          "G": 0.511712119497567
+        },
+        "risk_allele_frequency": 0.511712119497567,
+        "population": "YRI",
+        "phenotype": "Thiopurine toxicity"
+      },
+      "rs1142345": {
+        "allele_frequencies": {
+          "T": 0.5423065341764529,
+          "C": 0.45769346582354714
+        },
+        "risk_allele_frequency": 0.45769346582354714,
+        "population": "YRI",
+        "phenotype": "Reduced TPMT activity"
+      }
+    },
+    "UGT1A1": {
+      "rs4148323": {
+        "allele_frequencies": {
+          "G": 0.511712119497567,
+          "A": 0.48828788050243294
+        },
+        "risk_allele_frequency": 0.48828788050243294,
+        "population": "YRI",
+        "phenotype": "Irinotecan toxicity"
+      }
+    }
+  },
+  {
+    "DPYD": {
+      "rs3918290": {
+        "allele_frequencies": {
+          "G": 0.5118219749652295,
+          "A": 0.48817802503477054
+        },
+        "risk_allele_frequency": 0.48817802503477054,
+        "population": "GWD",
+        "phenotype": "5-FU toxicity"
+      },
+      "rs67376798": {
+        "allele_frequencies": {
+          "T": 0.5579790449325005,
+          "A": 0.4420209550674995
+        },
+        "risk_allele_frequency": 0.4420209550674995,
+        "population": "GWD",
+        "phenotype": "Fluoropyrimidine toxicity"
+      },
+      "rs55886062": {
+        "allele_frequencies": {
+          "A": 0.4420209550674995,
+          "T": 0.5579790449325005
+        },
+        "risk_allele_frequency": 0.5579790449325005,
+        "population": "GWD",
+        "phenotype": "DPD deficiency"
+      }
+    },
+    "TPMT": {
+      "rs1800462": {
+        "allele_frequencies": {
+          "G": 0.49601035152037953,
+          "C": 0.5039896484796205
+        },
+        "risk_allele_frequency": 0.5039896484796205,
+        "population": "GWD",
+        "phenotype": "TPMT deficiency"
+      },
+      "rs1800460": {
+        "allele_frequencies": {
+          "A": 0.48817802503477054,
+          "G": 0.5118219749652295
+        },
+        "risk_allele_frequency": 0.5118219749652295,
+        "population": "GWD",
+        "phenotype": "Thiopurine toxicity"
+      },
+      "rs1142345": {
+        "allele_frequencies": {
+          "T": 0.5423255813953488,
+          "C": 0.4576744186046512
+        },
+        "risk_allele_frequency": 0.4576744186046512,
+        "population": "GWD",
+        "phenotype": "Reduced TPMT activity"
+      }
+    },
+    "UGT1A1": {
+      "rs4148323": {
+        "allele_frequencies": {
+          "G": 0.5118219749652295,
+          "A": 0.48817802503477054
+        },
+        "risk_allele_frequency": 0.48817802503477054,
+        "population": "GWD",
+        "phenotype": "Irinotecan toxicity"
+      }
+    }
+  },
+  {
+    "DPYD": {
+      "rs3918290": {
+        "allele_frequencies": {
+          "G": 0.515430174563591,
+          "A": 0.484569825436409
+        },
+        "risk_allele_frequency": 0.484569825436409,
+        "population": "ESN",
+        "phenotype": "5-FU toxicity"
+      },
+      "rs67376798": {
+        "allele_frequencies": {
+          "T": 0.5578153889916085,
+          "A": 0.4421846110083914
+        },
+        "risk_allele_frequency": 0.4421846110083914,
+        "population": "ESN",
+        "phenotype": "Fluoropyrimidine toxicity"
+      },
+      "rs55886062": {
+        "allele_frequencies": {
+          "A": 0.4421846110083914,
+          "T": 0.5578153889916085
+        },
+        "risk_allele_frequency": 0.5578153889916085,
+        "population": "ESN",
+        "phenotype": "DPD deficiency"
+      }
+    },
+    "TPMT": {
+      "rs1800462": {
+        "allele_frequencies": {
+          "G": 0.4983674084492892,
+          "C": 0.5016325915507108
+        },
+        "risk_allele_frequency": 0.5016325915507108,
+        "population": "ESN",
+        "phenotype": "TPMT deficiency"
+      },
+      "rs1800460": {
+        "allele_frequencies": {
+          "A": 0.484569825436409,
+          "G": 0.515430174563591
+        },
+        "risk_allele_frequency": 0.515430174563591,
+        "population": "ESN",
+        "phenotype": "Thiopurine toxicity"
+      },
+      "rs1142345": {
+        "allele_frequencies": {
+          "T": 0.5409157778595072,
+          "C": 0.4590842221404928
+        },
+        "risk_allele_frequency": 0.4590842221404928,
+        "population": "ESN",
+        "phenotype": "Reduced TPMT activity"
+      }
+    },
+    "UGT1A1": {
+      "rs4148323": {
+        "allele_frequencies": {
+          "G": 0.515430174563591,
+          "A": 0.484569825436409
+        },
+        "risk_allele_frequency": 0.484569825436409,
+        "population": "ESN",
+        "phenotype": "Irinotecan toxicity"
+      }
+    }
+  }
+]

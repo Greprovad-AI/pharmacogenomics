@@ -1,0 +1,10 @@
+
+FROM deepseek-r1:1.5b
+
+# Parameter settings
+PARAMETER temperature 0.7
+PARAMETER num_ctx 200
+
+# Training configuration
+TRAINING_EPOCHS 3
+TRAINING_BATCH_SIZE 4

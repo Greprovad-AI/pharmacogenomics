@@ -1,0 +1,157 @@
+{
+  "LWK": {
+    "gene_scores": {
+      "DPYD": 0.48665662334162957,
+      "TPMT": 0.49432979587022835,
+      "UGT1A1": 0.19230615905919873
+    },
+    "drug_risks": {
+      "5-FU": {
+        "risk_level": "Moderate",
+        "score": 0.48665662334162957
+      },
+      "Capecitabine": {
+        "risk_level": "Moderate",
+        "score": 0.48665662334162957
+      },
+      "Thiopurines": {
+        "risk_level": "Moderate",
+        "score": 0.49432979587022835
+      },
+      "Irinotecan": {
+        "risk_level": "Low",
+        "score": 0.19230615905919873
+      }
+    },
+    "recommendations": [
+      "5-FU: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Capecitabine: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Thiopurines: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Irinotecan: Standard dosing appropriate. Regular monitoring recommended."
+    ]
+  },
+  "MSL": {
+    "gene_scores": {
+      "DPYD": 0.4864280667277294,
+      "TPMT": 0.4945546659080777,
+      "UGT1A1": 0.1921266402832743
+    },
+    "drug_risks": {
+      "5-FU": {
+        "risk_level": "Moderate",
+        "score": 0.4864280667277294
+      },
+      "Capecitabine": {
+        "risk_level": "Moderate",
+        "score": 0.4864280667277294
+      },
+      "Thiopurines": {
+        "risk_level": "Moderate",
+        "score": 0.4945546659080777
+      },
+      "Irinotecan": {
+        "risk_level": "Low",
+        "score": 0.1921266402832743
+      }
+    },
+    "recommendations": [
+      "5-FU: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Capecitabine: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Thiopurines: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Irinotecan: Standard dosing appropriate. Regular monitoring recommended."
+    ]
+  },
+  "YRI": {
+    "gene_scores": {
+      "DPYD": 0.48971729255907154,
+      "TPMT": 0.49435942836371727,
+      "UGT1A1": 0.19531515220097317
+    },
+    "drug_risks": {
+      "5-FU": {
+        "risk_level": "Moderate",
+        "score": 0.48971729255907154
+      },
+      "Capecitabine": {
+        "risk_level": "Moderate",
+        "score": 0.48971729255907154
+      },
+      "Thiopurines": {
+        "risk_level": "Moderate",
+        "score": 0.49435942836371727
+      },
+      "Irinotecan": {
+        "risk_level": "Low",
+        "score": 0.19531515220097317
+      }
+    },
+    "recommendations": [
+      "5-FU: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Capecitabine: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Thiopurines: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Irinotecan: Standard dosing appropriate. Regular monitoring recommended."
+    ]
+  },
+  "GWD": {
+    "gene_scores": {
+      "DPYD": 0.48947330552065815,
+      "TPMT": 0.49515215528084133,
+      "UGT1A1": 0.19527121001390824
+    },
+    "drug_risks": {
+      "5-FU": {
+        "risk_level": "Moderate",
+        "score": 0.48947330552065815
+      },
+      "Capecitabine": {
+        "risk_level": "Moderate",
+        "score": 0.48947330552065815
+      },
+      "Thiopurines": {
+        "risk_level": "Moderate",
+        "score": 0.49515215528084133
+      },
+      "Irinotecan": {
+        "risk_level": "Low",
+        "score": 0.19527121001390824
+      }
+    },
+    "recommendations": [
+      "5-FU: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Capecitabine: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Thiopurines: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Irinotecan: Standard dosing appropriate. Regular monitoring recommended."
+    ]
+  },
+  "ESN": {
+    "gene_scores": {
+      "DPYD": 0.4880463912754027,
+      "TPMT": 0.49582465325266434,
+      "UGT1A1": 0.1938279301745636
+    },
+    "drug_risks": {
+      "5-FU": {
+        "risk_level": "Moderate",
+        "score": 0.4880463912754027
+      },
+      "Capecitabine": {
+        "risk_level": "Moderate",
+        "score": 0.4880463912754027
+      },
+      "Thiopurines": {
+        "risk_level": "Moderate",
+        "score": 0.49582465325266434
+      },
+      "Irinotecan": {
+        "risk_level": "Low",
+        "score": 0.1938279301745636
+      }
+    },
+    "recommendations": [
+      "5-FU: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Capecitabine: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Thiopurines: Start with 25-50% reduced dose. Monitor closely and adjust based on response.",
+      "Irinotecan: Standard dosing appropriate. Regular monitoring recommended."
+    ]
+  }
+}
