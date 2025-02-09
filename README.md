@@ -119,4 +119,5 @@ MIT License
 
 ## Contact
 - GitHub Issues: For bug reports and feature requests
-- Email: [contact@greprovad.ai](mailto:contact@greprovad.ai)
+- Website: [https://www.greprovad.org](https://www.greprovad.org)
+- Email: [contact@greprovad.org](mailto:contact@greprovad.org)
